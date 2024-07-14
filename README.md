@@ -36,19 +36,19 @@ FindYourGuide is a web or mobile application that simplifies appointment schedul
 Here are some screenshots of the application:
 
 ## Home Page
-![Counselor Dashboard](./Screenshots/ss2.png)
+![Counselor Dashboard](./ss2.png)
 
 
 ## Counselor Dashboard
 
-![Home Page](./Screenshots/ss1.png)
+![Home Page](./ss1.png)
 
 
 ## Register Page
-![Booking Page](./Screenshots/ss3.png)
+![Booking Page](./ss3.png)
 
 ## Login
-![Booking Page](./Screenshots/ss4.png)
+![Booking Page](./ss4.png)
 
 
 ## Run Locally
