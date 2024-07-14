@@ -30,6 +30,26 @@ FindYourGuide is a web or mobile application that simplifies appointment schedul
 - Shadcn
 - Typescript
 
+##Screenshots
+# Screenshots
+
+Here are some screenshots of the application:
+
+## Home Page
+![Counselor Dashboard](./Screenshots/ss2.png)
+
+
+## Counselor Dashboard
+
+![Home Page](./Screenshots/ss1.png)
+
+
+## Register Page
+![Booking Page](./Screenshots/ss3.png)
+
+## Login
+![Booking Page](./Screenshots/ss4.png)
+
 
 ## Run Locally
 
@@ -73,4 +93,3 @@ VITE_BACKEND_URL=http://localhost:8080
 ```javascript
 VITE_BACKEND_URL=Hosted link
 ```
-
