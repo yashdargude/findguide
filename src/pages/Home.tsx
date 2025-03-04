@@ -6,50 +6,6 @@ import bg4 from "../assets/bg4.jpg";
 import { motion } from "framer-motion";
 
 function Home() {
-  const services = [
-    {
-      title: "Individual Therapy",
-      image:
-        "https://heartitout.in/home-new/assets/images/our-services/individual-vector.svg",
-      link: "https://heartitout.in/therapists/?therapy=Individual",
-    },
-    {
-      title: "Couples Therapy",
-      image:
-        "https://heartitout.in/home-new/assets/images/our-services/couple-vector.svg",
-      link: "https://heartitout.in/therapists/?therapy=Couples",
-    },
-    {
-      title: "Family Therapy",
-      image:
-        "https://heartitout.in/home-new/assets/images/our-services/family-vector.svg",
-      link: "https://heartitout.in/therapists/?therapy=Family",
-    },
-    {
-      title: "Geriatric Care",
-      image:
-        "https://heartitout.in/home-new/assets/images/our-services/geriatic-vector.svg",
-      link: "https://heartitout.in/contact-us/",
-    },
-    {
-      title: "Child Therapy",
-      image:
-        "https://heartitout.in/home-new/assets/images/our-services/child-vector.svg",
-      link: "https://heartitout.in/therapists/?therapy=Child",
-    },
-    {
-      title: "Psychiatry",
-      image:
-        "https://heartitout.in/home-new/assets/images/our-services/psych-vector.svg",
-      link: "https://heartitout.in/therapists/?therapy=Psychiatric",
-    },
-    {
-      title: "Career Counselling",
-      image:
-        "https://heartitout.in/home-new/assets/images/our-services/career-vector.svg",
-      link: "https://heartitout.in/career-counselling/",
-    },
-  ];
   return (
     <div className="relative">
       <Header />
