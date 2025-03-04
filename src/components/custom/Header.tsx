@@ -21,7 +21,7 @@ function Header() {
     setOpen(!open);
   };
   return (
-    <header className="bg-darkblue fixed w-full left-0 top-0 backdrop:blur-3xl backdrop:opacity-10">
+    <header className="bg-darkblue fixed w-full left-0 top-0 backdrop:blur-3xl backdrop:opacity-10 z-50 ">
       <nav className="container mx-auto flex items-center justify-between px-4 py-8">
         <NavLink to="/" className="flex items-center justify-center gap-2">
           <HiCubeTransparent className="text-brightred w-10 h-10" />
